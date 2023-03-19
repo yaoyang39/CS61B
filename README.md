@@ -1,2 +1,2 @@
 # CS61B
-学习算法
+Study the algorithm
